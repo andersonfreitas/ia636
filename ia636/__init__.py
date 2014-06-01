@@ -20,16 +20,16 @@ from iadft import iadft
 from iadftmatrix import iadftmatrix
 from iadither import iadither
 from iadftview import iadftview
-from iaellipse import iaellipse
+# from iaellipse import iaellipse
 from iaffine import iaffine
-from iaffine2 import iaffine2
+# from iaffine2 import iaffine2
 from iaffine3 import iaffine3
 from iafftshift import iafftshift
 from iafig2img import iafig2img
 from iafloyd import iafloyd
 from iagaussian import iagaussian
 from iageorigid import iageorigid
-from iagshow import iagshow
+# from iagshow import iagshow
 from iah2percentile import iah2percentile
 from iah2stats import iah2stats
 from iahaarmatrix import iahaarmatrix
@@ -38,7 +38,7 @@ from iahadamardmatrix import iahadamardmatrix
 from iahistogram import iahistogram, iahistogram_eq, iahistogram_eq1
 from iahwt import iahwt
 from iaidct import iaidct
-from iaidft import iaidft
+# from iaidft import iaidft
 from iaifftshift import iaifftshift
 from iaihadamard import iaihadamard
 from iaihwt import iaihwt
@@ -54,10 +54,10 @@ from ialog import ialog
 from ialogfilter import ialogfilter
 from iameshgrid import iameshgrid
 from iamosaic import iamosaic
-from iamutualinformation import iamutualInformation
+# from iamutualinformation import iamutualInformation
 from ianeg import ianeg
 from ianormalize import ianormalize
-from ianshow import ianshow
+# from ianshow import ianshow
 from iaotsu import iaotsu
 from iapad import iapad
 from iapca import iapca
@@ -68,8 +68,8 @@ from iaphasecorr import iaphasecorr
 from iaplot import iaplot
 from iapolar import iapolar
 from iaptrans import iaptrans
-from iapyrdown import iapyrdown
-from iapyrup import iapyrup
+# from iapyrdown import iapyrdown
+# from iapyrup import iapyrup
 from iaramp import iaramp
 from iareadurl import iareadurl
 from iarec import iarec
