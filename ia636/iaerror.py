@@ -1,0 +1,2 @@
+def iaerror(s):
+  return

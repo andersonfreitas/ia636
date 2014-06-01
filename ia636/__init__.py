@@ -85,7 +85,7 @@ from iatiling import iatiling
 from iavarfilter import iavarfilter
 from iawcorr import iawcorr
 
-#from iaerror import iaerror
+from iaerror import iaerror
 #from iacooccurrence import iacooccurrence
 #from iaversion import iaversion
 #from iashow import iashow
