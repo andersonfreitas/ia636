@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaptransfrom numpy import *
+# Module iaptrans
+from numpy import *
 
 def iaptrans(f,t):
     import numpy as np

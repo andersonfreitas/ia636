@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iarecfrom numpy import *
+# Module iarec
+from numpy import *
 
 def iarec(f, seed):
 

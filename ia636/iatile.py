@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iatilefrom numpy import *
+# Module iatile
+from numpy import *
 
 def iatile(f, new_size):
 

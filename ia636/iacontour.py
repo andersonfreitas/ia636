@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iacontourfrom numpy import *
+# Module iacontour
+from numpy import *
 
 def iacontour(f):
 

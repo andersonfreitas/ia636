@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iatilingimport numpy as np
+# Module iatiling
+import numpy as np
 def iatiling(f, w):
   H = Hold = w
   g = np.zeros((H,w),'uint8')

@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module ialogfrom numpy import *
+# Module ialog
+from numpy import *
 
 def ialog(s, mu, sigma):
 

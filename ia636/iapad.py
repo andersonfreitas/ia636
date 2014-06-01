@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iapadfrom numpy import *
+# Module iapad
+from numpy import *
 
 def iapad(f, thick=[1,1], value=0):
 

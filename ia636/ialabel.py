@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module ialabelfrom numpy import *
+# Module ialabel
+from numpy import *
 
 def ialabel(f):
     from iaind2sub import iaind2sub

@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iagshowfrom numpy import *
+# Module iagshow
+from numpy import *
 import ia870
 
 def iagshow(X, X1=None, X2=None, X3=None, X4=None, X5=None, X6=None):

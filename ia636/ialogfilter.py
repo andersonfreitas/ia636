@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module ialogfilterfrom numpy.fft import fft2, ifft2
+# Module ialogfilter
+from numpy.fft import fft2, ifft2
 from numpy import *
 
 def ialogfilter(f, sigma):

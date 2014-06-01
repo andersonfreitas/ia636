@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iamosaicfrom numpy import *
+# Module iamosaic
+from numpy import *
 import scipy
 
 def iamosaic(f,N,s=1.0):

@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaihadamardfrom numpy import *
+# Module iaihadamard
+from numpy import *
 
 def iaihadamard(f):
     from iahadamardmatrix import iahadamardmatrix

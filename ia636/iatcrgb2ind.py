@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iatcrgb2indfrom numpy import *
+# Module iatcrgb2ind
+from numpy import *
 
 def iatcrgb2ind(f):
     from iaunique import iaunique

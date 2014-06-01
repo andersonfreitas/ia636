@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iadftviewfrom numpy import *
+# Module iadftview
+from numpy import *
 
 def iadftview(F):
     from ia636 import iafftshift

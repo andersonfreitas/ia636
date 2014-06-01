@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iarampfrom numpy import *
+# Module iaramp
+from numpy import *
 
 def iaramp(s, n, range=[0,255]):
     aux = array(n)

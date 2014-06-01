@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iadftmatrixfrom numpy import *
+# Module iadftmatrix
+from numpy import *
 
 def iadftmatrix(N):
     x = arange(N).reshape(N,1)

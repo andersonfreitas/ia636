@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iapercentiledef iapercentile(f, p=1):
+# Module iapercentile
+def iapercentile(f, p=1):
 
    import numpy as np
    k = (f.size-1) * p/100.

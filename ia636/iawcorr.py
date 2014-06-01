@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iawcorrdef iawcorr(im1, im2, w):
+# Module iawcorr
+def iawcorr(im1, im2, w):
     import numpy as np
     w = w.astype(float)
     wf = w.ravel()

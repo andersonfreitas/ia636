@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iacombfrom numpy import *
+# Module iacomb
+from numpy import *
 
 def iacomb(s, delta, offset):
 

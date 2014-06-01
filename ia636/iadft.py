@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iadftfrom numpy import *
+# Module iadft
+from numpy import *
 
 def iadft(f):
     from ia636 import iadftmatrix

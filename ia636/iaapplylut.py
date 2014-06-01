@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaapplylutfrom numpy import *
+# Module iaapplylut
+from numpy import *
 
 def iaapplylut(fi, it):
     g = it[fi]

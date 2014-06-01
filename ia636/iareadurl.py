@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iareadurldef iareadurl(url):
+# Module iareadurl
+def iareadurl(url):
     from StringIO import StringIO
     import urllib
     import PIL

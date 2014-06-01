@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaphasecorrfrom numpy import *
+# Module iaphasecorr
+from numpy import *
 
 def iaphasecorr(f,h):
     F = fft.fftn(f)

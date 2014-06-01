@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaroifrom numpy import *
+# Module iaroi
+from numpy import *
 
 def iaroi(f, p1, p2):
 

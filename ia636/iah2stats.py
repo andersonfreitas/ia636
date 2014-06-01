@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iah2statsdef iah2stats(h):
+# Module iah2stats
+def iah2stats(h):
     import numpy as np
     import ia636 as ia
 

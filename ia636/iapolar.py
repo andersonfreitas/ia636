@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iapolarfrom numpy import *
+# Module iapolar
+from numpy import *
 
 def iapolar(f, domain, thetamax = 2 * pi):
 

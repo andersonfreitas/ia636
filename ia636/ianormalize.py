@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module ianormalizefrom numpy import *
+# Module ianormalize
+from numpy import *
 
 def ianormalize(f, range=[0,255]):
     from iaerror import iaerror

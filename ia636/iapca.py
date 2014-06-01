@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iapcaimport numpy as np
+# Module iapca
+import numpy as np
 
 def iapca(X):
 

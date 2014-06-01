@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaisdftsymfrom numpy import *
+# Module iaisdftsym
+from numpy import *
 
 def iaisdftsym(F):
 

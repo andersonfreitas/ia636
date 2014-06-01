@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iacolorhistfrom numpy import *
+# Module iacolorhist
+from numpy import *
 
 def iacolorhist(f, mask=None):
     from iaerror import iaerror

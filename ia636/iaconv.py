@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaconvimport numpy as np
+# Module iaconv
+import numpy as np
 
 def iaconv(f, h):
     f, h = np.asarray(f), np.asarray(h,float)

@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iarot90from numpy import *
+# Module iarot90
+from numpy import *
 
 def iarot90(img, axis='X'):
 

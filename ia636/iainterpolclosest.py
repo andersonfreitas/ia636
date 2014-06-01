@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iainterpolclosestdef iainterpolclosest(f, pts):
+# Module iainterpolclosest
+def iainterpolclosest(f, pts):
     # f - one, two or three dimention array
     # pts - array of points to interpolate
     import numpy as np

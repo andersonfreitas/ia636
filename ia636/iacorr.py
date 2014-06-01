@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iacorrdef iacorr(im1, im2):
+# Module iacorr
+def iacorr(im1, im2):
     import numpy as np
     avim1 = np.average(im1.astype(float).flat)
     avim2 = np.average(im2.astype(float).flat)

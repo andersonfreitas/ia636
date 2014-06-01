@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module ianegfrom numpy import *
+# Module ianeg
+from numpy import *
 
 def ianeg(f):
 

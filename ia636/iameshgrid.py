@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iameshgridfrom numpy import *
+# Module iameshgrid
+from numpy import *
 
 def iameshgrid(vx, vy):
 

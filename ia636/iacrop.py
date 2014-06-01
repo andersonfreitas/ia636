@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iacropfrom numpy import *
+# Module iacrop
+from numpy import *
 
 def iacrop(f, side='all', color='black'):
     from ianeg import ianeg

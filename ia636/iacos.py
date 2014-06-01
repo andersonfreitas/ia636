@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iacosimport numpy as np
+# Module iacos
+import numpy as np
 
 def iacos(s, t, theta, phi):
     r, c = np.indices(s)

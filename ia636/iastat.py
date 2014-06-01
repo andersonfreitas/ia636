@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iastatfrom numpy import *
+# Module iastat
+from numpy import *
 
 def iastat(f1, f2):
 

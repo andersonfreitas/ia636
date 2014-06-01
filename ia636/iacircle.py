@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iacirclefrom numpy import *
+# Module iacircle
+from numpy import *
 
 def iacircle(s, r, c):
 

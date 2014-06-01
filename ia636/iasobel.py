@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iasobelfrom numpy import *
+# Module iasobel
+from numpy import *
 import numpy.oldnumeric.mlab as Mlab
 from numpy.oldnumeric.mlab import *
 

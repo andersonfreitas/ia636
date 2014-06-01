@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iageorigidfrom numpy import *
+# Module iageorigid
+from numpy import *
 
 def iageorigid(f, scale, theta, t):
     from iaffine import iaffine

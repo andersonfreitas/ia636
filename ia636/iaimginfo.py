@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaimginfoimport numpy as np
+# Module iaimginfo
+import numpy as np
 
 def iaimginfo(f):
     t = type(f)

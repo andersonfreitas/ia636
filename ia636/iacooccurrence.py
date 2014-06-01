@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iacooccurrenceimport numpy as np
+# Module iacooccurrence
+import numpy as np
 #import scipy.ndimage as scind
 #from scipy.linalg import toeplitz
 

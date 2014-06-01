@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iafig2imgdef iafig2img(figure):
+# Module iafig2img
+def iafig2img(figure):
     import numpy
 
     # draw the renderer

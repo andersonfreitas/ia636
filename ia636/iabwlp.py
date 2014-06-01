@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iabwlpfrom numpy import *
+# Module iabwlp
+from numpy import *
 import string
 
 def iabwlp(fsize, tc, n, option='circle'):

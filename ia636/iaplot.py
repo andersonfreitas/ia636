@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaplotdef iaplot(Ylist, Xlist = [], arrows_list = [],text_list = [], ylabel='y', xlabel='x', title='',colors = 'rgbmyc',shapes = '------', axis = 'tight'):
+# Module iaplot
+def iaplot(Ylist, Xlist = [], arrows_list = [],text_list = [], ylabel='y', xlabel='x', title='',colors = 'rgbmyc',shapes = '------', axis = 'tight'):
     import numpy as np
     import matplotlib.pyplot as plt
     import ia636

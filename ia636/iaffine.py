@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaffineimport numpy as np
+# Module iaffine
+import numpy as np
 
 def iaffine(f,T,domain=0):
 

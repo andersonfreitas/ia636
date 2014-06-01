@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaditherfrom numpy import *
+# Module iadither
+from numpy import *
 
 def iadither(f, n):
     from ianormalize import ianormalize

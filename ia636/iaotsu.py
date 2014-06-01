@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaotsufrom numpy import *
+# Module iaotsu
+from numpy import *
 
 def iaotsu(f):
     n = product(shape(f))

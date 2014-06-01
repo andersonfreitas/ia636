@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iahistogramimport numpy as np
+# Module iahistogram
+import numpy as np
 
 def iahistogram(f):
 

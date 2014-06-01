@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iarectanglefrom numpy import *
+# Module iarectangle
+from numpy import *
 
 def iarectangle(s, r, c):
 

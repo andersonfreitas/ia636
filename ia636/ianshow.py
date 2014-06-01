@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module ianshowimport ia870 as ia
+# Module ianshow
+import ia870 as ia
 import ia636 as ia6
 import numpy as np
 

@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iagaussianimport numpy as np
+# Module iagaussian
+import numpy as np
 
 def iagaussian(s, mu, cov):
     d = len(s)  # dimension

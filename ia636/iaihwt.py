@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaihwtfrom numpy import *
+# Module iaihwt
+from numpy import *
 
 def iaihwt(f):
     from iahaarmatrix import iahaarmatrix

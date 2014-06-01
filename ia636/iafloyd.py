@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iafloydfrom numpy import *
+# Module iafloyd
+from numpy import *
 
 def iafloyd(f):
     from ianormalize import ianormalize

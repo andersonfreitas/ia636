@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iah2percentiledef iah2percentile(h,p):
+# Module iah2percentile
+def iah2percentile(h,p):
 
     import numpy as np
     s = h.sum()

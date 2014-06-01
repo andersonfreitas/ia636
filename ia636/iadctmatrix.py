@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iadctmatrixfrom numpy import *
+# Module iadctmatrix
+from numpy import *
 
 def iadctmatrix(N):
     from iameshgrid import iameshgrid

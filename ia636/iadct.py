@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iadctfrom numpy import *
+# Module iadct
+from numpy import *
 
 def iadct(f):
     from iadctmatrix import iadctmatrix

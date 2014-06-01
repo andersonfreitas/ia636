@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iainterpollindef iainterpollin(f, pts):
+# Module iainterpollin
+def iainterpollin(f, pts):
     # f - one, two or three dimention array
     # pts - array of points to interpolate:
     # throws IndexError if there are indices out of range in pts

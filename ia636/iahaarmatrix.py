@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iahaarmatrixfrom numpy import *
+# Module iahaarmatrix
+from numpy import *
 
 def iahaarmatrix(N):
     from iaerror import iaerror

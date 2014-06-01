@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaffine3def iaffine3(f, T, interpol='CLOSEST', destshape='SAME', destorg=0):
+# Module iaffine3
+def iaffine3(f, T, interpol='CLOSEST', destshape='SAME', destorg=0):
     import numpy as np
     from ia636 import iainterpollin
     from ia636 import iainterpolclosest

@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iacolormapfrom numpy import *
+# Module iacolormap
+from numpy import *
 import colorsys
 
 def iacolormap(type='gray'):

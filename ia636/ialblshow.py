@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module ialblshowfrom numpy import *
+# Module ialblshow
+from numpy import *
 from numpy.random import rand
 
 def ialblshow(f):

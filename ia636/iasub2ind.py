@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iasub2indfrom numpy import *
+# Module iasub2ind
+from numpy import *
 
 def iasub2ind(dim, x, y):
 

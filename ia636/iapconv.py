@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iapconvdef iapconv4(f,h):
+# Module iapconv
+def iapconv4(f,h):
    import numpy as np
 
    h_ind=np.nonzero(h)

@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iargb2grayfrom numpy import *
+# Module iargb2gray
+from numpy import *
 
 def iargb2gray(f):
 

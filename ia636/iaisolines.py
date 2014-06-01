@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaisolinesimport numpy as np
+# Module iaisolines
+import numpy as np
 import ia636 as ia
 
 def iaisolines(f, nc=10, n=1):

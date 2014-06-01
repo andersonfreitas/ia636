@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iaifftshiftfrom numpy import *
+# Module iaifftshift
+from numpy import *
 
 def iaifftshift(H):
     from iaptrans import iaptrans

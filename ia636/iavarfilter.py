@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
-# Module iavarfilterfrom numpy import *
+# Module iavarfilter
+from numpy import *
 
 def iavarfilter(f,h,CV=True):
 
