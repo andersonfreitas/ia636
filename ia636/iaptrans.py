@@ -1,5 +1,4 @@
 # -*- encoding: utf-8 -*-
-# Module iaptrans
 from numpy import *
 
 def iaptrans(f,t):
