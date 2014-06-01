@@ -1,0 +1,10 @@
+/* ------------------------------------------------------------------
+	Styles for printing
+ * ------------------------------------------------------------------ */
+
+TABLE.columns TD.left {
+	display: none;
+}
+TABLE.columns TD.right {
+	display: none;
+}
